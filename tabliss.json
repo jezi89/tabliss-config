@@ -1,0 +1,107 @@
+{
+    "data/XGvJYVyhJjHL": {
+        "showDetails": true,
+        "units": "si",
+        "latitude": -31.3439,
+        "longitude": 26.555,
+        "name": "Rijswijk"
+    },
+    "data/default-greeting": {
+        "name": "Jer"
+    },
+    "data/default-time": {
+        "mode": "digital",
+        "hour12": false,
+        "showDate": true,
+        "showMinutes": true,
+        "showSeconds": true,
+        "showDayPeriod": true,
+        "timeZone": null,
+        "name": ""
+    },
+    "widget/6b1vUJ_fq6Nh": null,
+    "widget/XGvJYVyhJjHL": {
+        "id": "XGvJYVyhJjHL",
+        "key": "widget/weather",
+        "order": 3,
+        "display": {
+            "position": "topRight",
+            "fontSize": 46
+        }
+    },
+    "widget/default-greeting": {
+        "id": "default-greeting",
+        "key": "widget/greeting",
+        "order": 0,
+        "display": {
+            "position": "topCentre",
+            "fontSize": 34,
+            "colour": "#49a29c",
+            "fontWeight": 100
+        }
+    },
+    "widget/default-time": {
+        "id": "default-time",
+        "key": "widget/time",
+        "order": 1,
+        "display": {
+            "position": "middleCentre",
+            "fontSize": 22,
+            "fontWeight": 900,
+            "colour": "#ffffff"
+        }
+    },
+    "widget/dxtr9w_P2Yex": null,
+    "widget/zuk_NRe2ao-w": {
+        "id": "zuk_NRe2ao-w",
+        "key": "widget/workHours",
+        "order": 2,
+        "display": {
+            "position": "topCentre",
+            "fontSize": 14,
+            "colour": "#ffbdbd",
+            "fontWeight": 700
+        }
+    },
+    "widget/Brdg2HAqd5yz": null,
+    "widget/zMwhPIwJXanL": null,
+    "widget/YJWeYUaOK54d": {
+        "id": "YJWeYUaOK54d",
+        "key": "widget/ipInfo",
+        "order": 4,
+        "display": {
+            "position": "topRight"
+        }
+    },
+    "widget/dm66N2J1SirV": null,
+    "data/zuk_NRe2ao-w": {
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "days": [1, 2, 3, 4, 5]
+    },
+    "widget/m2hJ8cjaZx79": {
+        "id": "m2hJ8cjaZx79",
+        "key": "widget/quote",
+        "order": 5,
+        "display": {
+            "position": "topCentre",
+            "fontSize": 20,
+            "colour": "#b3b3b3"
+        }
+    },
+    "data/m2hJ8cjaZx79": {
+        "category": "developerexcuses"
+    },
+    "background": {
+        "id": "default-unsplash",
+        "key": "background/unsplash",
+        "display": {
+            "luminosity": -0.2,
+            "blur": 0
+        }
+    },
+    "focus": false,
+    "locale": "nl",
+    "timeZone": null,
+    "version": 3
+}
